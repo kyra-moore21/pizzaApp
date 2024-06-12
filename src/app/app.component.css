@@ -1,0 +1,12 @@
+.out{
+    color: grey;
+    text-decoration: line-through;
+}
+
+.border {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 20px solid red;
+    }
+
